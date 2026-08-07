@@ -1,0 +1,2 @@
+/home/vidushisng/25EC01053
+/home/vidushisng/25EC01053/scripts/deploy.sh

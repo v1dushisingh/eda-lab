@@ -1,0 +1,4 @@
+total 8
+drwxrwxr-x 2 vidushisng vidushisng 4096 Jul 31 09:18 scripts
+-rw-rw-r-- 1 vidushisng vidushisng    0 Jul 31 09:25 structure_check.txt
+drwxrwxr-x 2 vidushisng vidushisng 4096 Jul 31 09:17 tcad_sims

@@ -1,0 +1,5 @@
+drwxrwxr-x vidushisng/vidushisng 0 2026-07-31 10:09 25EC01053/tcad_sims/
+-rw-rw-r-- vidushisng/vidushisng 12 2026-07-31 10:09 25EC01053/tcad_sims/device3.txt
+-rw-rw-r-- vidushisng/vidushisng 34 2026-07-31 09:55 25EC01053/tcad_sims/sim_progress.log
+-rw-rw-r-- vidushisng/vidushisng 10 2026-07-31 10:08 25EC01053/tcad_sims/device1.txt
+-rw-rw-r-- vidushisng/vidushisng 12 2026-07-31 10:08 25EC01053/tcad_sims/device2.txt

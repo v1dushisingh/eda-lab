@@ -1,0 +1,6 @@
+cd /home/vidushisng/25EC01053/scripts
+pwd
+cd ..
+cd tcad_sims
+
+
