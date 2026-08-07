@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib
 import matplotlib.pyplot as plt
-print("Python Version :", sys.version.split()[0])
+print("Python, Version :", sys.version.split()[0])
 print("numpy Version :", np.__version__)
 print("pandas Version :", pd.__version__)
 print("matplotlib Version :", matplotlib.__version__)
